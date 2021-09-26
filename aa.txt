@@ -12,6 +12,5 @@ hello work sdsa
 hello work
 dasdadas
 sdadsa
-<<<<<<< HEAD
 111
 333
