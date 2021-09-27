@@ -1,4 +1,4 @@
-hello work
+ihello work
 hello work
 hello work
 hello work
@@ -12,12 +12,4 @@ hello work sdsa
 hello work
 dasdadas
 sdadsa
-<<<<<<< HEAD
-111 999
-=======
-111 222
->>>>>>> hot-fix
-33323 asda
-sad
-111111111111
-idsa·
+:wq
